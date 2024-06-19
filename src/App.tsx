@@ -1,6 +1,7 @@
 import {
   InputField,
   Keyboard,
+  Tablo,
   // Keyboard
 } from './components';
 
@@ -10,6 +11,7 @@ function App() {
       <h1>Calculator</h1>
       <div>
         <InputField />
+        <Tablo />
         <Keyboard />
       </div>
     </div>

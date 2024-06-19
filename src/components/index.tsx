@@ -2,5 +2,6 @@
 
 import InputField from './InputField';
 import Keyboard from './Keyboard';
+import Tablo from './Tablo';
 
-export { InputField, Keyboard };
+export { InputField, Keyboard, Tablo };
