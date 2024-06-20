@@ -1,5 +1,5 @@
 const InputField = () => {
-  return <div>InputField is under construction</div>;
+  return <input/>;
 };
 
 export default InputField;
